@@ -1,3 +1,4 @@
+
 ### this is README file for simple git workflow# be-simple-git-workflow
 
 ### please fork it and follow the instruction to get pair's code dynamically
@@ -17,3 +18,5 @@ secondYH : 장바구니 기능 추가
 0hyunCho : 마이페이지 기능 추가
 
 secondYH : 좋아요 기능 추가
+
+snuBAEK	 : 추천 기능 추가
